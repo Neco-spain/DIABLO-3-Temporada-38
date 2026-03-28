@@ -302,3 +302,7 @@ El Crusader se mantiene permanentemente en **Akarat's Champion** (gracias al CDR
 | **AoE (Area of Effect)** | Daño infligido en un área, afectando a múltiples enemigos simultáneamente. |
 
 ---
+> *Fuentes principales: Maxroll.gg (Guía Rathma AotD, Season 38), Icy Veins (Deadset — Guía Rathma AotD, Patch 2.7.8), Warcraft Tavern, Expert Game Reviews, Sportskeeda. Datos verificados al 28 de marzo de 2026.*
+---
+
+
